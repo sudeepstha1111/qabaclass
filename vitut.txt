@@ -5,3 +5,5 @@
 5. then type (wq!) 
 6. it will save and close the file.
 7. VI basics command done
+8. dd is for delete a line
+9. yy is for copy and p is for paste
